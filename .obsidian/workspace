@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1-能力/2-技能/知识管理/工具箱/git.md",
-            "mode": "preview",
+            "file": "5-到此一游/2022-07-04.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-能力/2-技能/知识管理/工具箱/git.md",
+                "file": "5-到此一游/2022-07-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-能力/2-技能/知识管理/工具箱/git.md"
+                "file": "5-到此一游/2022-07-04.md"
               }
             }
           }
@@ -99,6 +99,7 @@
   },
   "active": "1f61b0b7cc141f1e",
   "lastOpenFiles": [
+    "5-到此一游/2022-07-04.md",
     "1-能力/2-技能/知识管理/工具箱/git.md",
     "1-能力/2-技能/知识管理/工具箱/wrk.md",
     "1-能力/2-技能/知识管理/工具库.md",
@@ -107,7 +108,6 @@
     "1-能力/2-技能/知识管理/工具箱/gdb.md",
     "1-能力/2-技能/知识管理/工具箱/dlv.md",
     "1-能力/2-技能/知识管理/工具箱/科学上网.md",
-    "1-能力/4-认知/杂文/随想.md",
-    "1-能力/2-技能/英语/英语.md"
+    "1-能力/4-认知/杂文/随想.md"
   ]
 }
