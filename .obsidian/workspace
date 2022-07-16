@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "2022H",
-                "matchingCase": true,
+                "query": "tag:#沟通",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
