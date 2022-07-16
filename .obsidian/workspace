@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5-到此一游/2022-07-16.md",
+            "file": "1-能力/4-认知/计划&复盘/2022H2计划.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-到此一游/2022-07-16.md",
+                "file": "1-能力/4-认知/计划&复盘/2022H2计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +87,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-到此一游/2022-07-16.md"
+                "file": "1-能力/4-认知/计划&复盘/2022H2计划.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,12 +100,12 @@
   },
   "active": "1f61b0b7cc141f1e",
   "lastOpenFiles": [
+    "1-能力/4-认知/计划&复盘/2022H2计划.md",
     "5-到此一游/2022-07-16.md",
     "1-能力/2-技能/知识管理/工具箱/mac.md",
     "5-到此一游/2022-07-15.md",
     "1-能力/2-技能/知识管理/工具库.md",
     "1-能力/4-认知/计划&复盘/近期状态复盘(2022.1.H1).md",
-    "1-能力/4-认知/计划&复盘/2022H2计划.md",
     "1-能力/2-技能/软件开发/2-技术认知/技术认知.md",
     "1-能力/4-认知/长乐道.md",
     "1-能力/2-技能/知识管理/工具箱/gdb.md",
