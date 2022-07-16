@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5-到此一游/2022-07-15.md",
+            "file": "5-到此一游/2022-07-16.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-到此一游/2022-07-15.md",
+                "file": "5-到此一游/2022-07-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-到此一游/2022-07-15.md"
+                "file": "5-到此一游/2022-07-16.md"
               }
             }
           }
@@ -98,6 +98,7 @@
   },
   "active": "1f61b0b7cc141f1e",
   "lastOpenFiles": [
+    "5-到此一游/2022-07-16.md",
     "5-到此一游/2022-07-15.md",
     "1-能力/2-技能/知识管理/工具库.md",
     "1-能力/4-认知/计划&复盘/近期状态复盘(2022.1.H1).md",
@@ -106,7 +107,6 @@
     "1-能力/4-认知/长乐道.md",
     "1-能力/2-技能/知识管理/工具箱/gdb.md",
     "1-能力/2-技能/软件开发/6-组件/数据库/etcd/etcd.md",
-    "5-到此一游/2022-07-14.md",
-    "1-能力/2-技能/软件开发/6-组件/数据库/mysql/mysql.md"
+    "5-到此一游/2022-07-14.md"
   ]
 }
