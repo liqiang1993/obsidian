@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5-到此一游/2022-07-18.md",
+            "file": "1-能力/2-技能/软件开发/9-技术实操/编程效率/临时文件.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:etcd",
+                "query": "file:临时",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-到此一游/2022-07-18.md",
+                "file": "1-能力/2-技能/软件开发/9-技术实操/编程效率/临时文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-到此一游/2022-07-18.md"
+                "file": "1-能力/2-技能/软件开发/9-技术实操/编程效率/临时文件.md"
               }
             }
           }
