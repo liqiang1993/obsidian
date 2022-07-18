@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5-到此一游/2022-07-17.md",
+            "file": "5-到此一游/2022-07-18.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-到此一游/2022-07-17.md",
+                "file": "5-到此一游/2022-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-到此一游/2022-07-17.md"
+                "file": "5-到此一游/2022-07-18.md"
               }
             }
           }
@@ -100,6 +100,7 @@
   },
   "active": "1f61b0b7cc141f1e",
   "lastOpenFiles": [
+    "5-到此一游/2022-07-18.md",
     "5-到此一游/2022-07-17.md",
     "1-能力/2-技能/软件开发/6-组件/数据库/etcd/etcd.md",
     "2022H2计划.md",
@@ -108,7 +109,6 @@
     "1-能力/3-才干/高效思维/高效思维.md",
     "5-到此一游/2022-07-16.md",
     "1-能力/2-技能/知识管理/工具箱/mac.md",
-    "5-到此一游/2022-07-15.md",
-    "1-能力/2-技能/知识管理/工具库.md"
+    "5-到此一游/2022-07-15.md"
   ]
 }
