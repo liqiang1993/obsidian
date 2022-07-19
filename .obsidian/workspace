@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5-到此一游/2022-07-19.md",
+            "file": "1-能力/2-技能/软件开发/9-技术实操/编程效率/临时文件.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:临时",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-到此一游/2022-07-19.md",
+                "file": "1-能力/2-技能/软件开发/9-技术实操/编程效率/临时文件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-到此一游/2022-07-19.md"
+                "file": "1-能力/2-技能/软件开发/9-技术实操/编程效率/临时文件.md"
               }
             }
           }
@@ -99,6 +100,7 @@
   },
   "active": "1f61b0b7cc141f1e",
   "lastOpenFiles": [
+    "5-到此一游/2022-07-19.md",
     "2022H2计划.md",
     "5-到此一游/2022-07-18.md",
     "1-能力/2-技能/软件开发/9-技术实操/编程效率/临时文件.md",
@@ -107,7 +109,6 @@
     "2022进展.md",
     "2-事业/实验室/家庭财务管理系统/家庭财务系统需求文档.md",
     "1-能力/3-才干/高效思维/高效思维.md",
-    "5-到此一游/2022-07-16.md",
-    "1-能力/2-技能/知识管理/工具箱/mac.md"
+    "5-到此一游/2022-07-16.md"
   ]
 }
