@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:go",
+                "query": "path:cha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1f61b0b7cc141f1e",
+  "active": "0b795893ae4334a6",
   "lastOpenFiles": [
     "1-能力/2-技能/软件开发/9-技术实操/编程效率/工作常用的命令.md",
     "1-能力/2-技能/软件开发/9-技术实操/编程效率/临时文件.md",
