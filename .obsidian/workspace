@@ -7,12 +7,8 @@
         "id": "1f61b0b7cc141f1e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1-能力/2-技能/软件开发/7-开发语言/GO/go 语言中的疑问.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:cha",
+                "query": "path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-能力/2-技能/软件开发/7-开发语言/GO/go 语言中的疑问.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-能力/2-技能/软件开发/7-开发语言/GO/go 语言中的疑问.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -98,8 +90,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0b795893ae4334a6",
+  "active": "1f61b0b7cc141f1e",
   "lastOpenFiles": [
+    "1-能力/2-技能/软件开发/7-开发语言/GO/go 语言中的疑问.md",
     "1-能力/2-技能/软件开发/9-技术实操/编程效率/工作常用的命令.md",
     "1-能力/2-技能/软件开发/9-技术实操/编程效率/临时文件.md",
     "5-到此一游/2022-07-19.md",
@@ -108,7 +101,6 @@
     "5-到此一游/2022-07-17.md",
     "1-能力/2-技能/软件开发/6-组件/数据库/etcd/etcd.md",
     "2022进展.md",
-    "2-事业/实验室/家庭财务管理系统/家庭财务系统需求文档.md",
-    "1-能力/3-才干/高效思维/高效思维.md"
+    "2-事业/实验室/家庭财务管理系统/家庭财务系统需求文档.md"
   ]
 }
