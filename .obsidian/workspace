@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5-到此一游/2022-07-23.md",
+            "file": "1-能力/4-认知/杂文/《读武动乾坤有感》.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-到此一游/2022-07-23.md",
+                "file": "1-能力/4-认知/杂文/《读武动乾坤有感》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-到此一游/2022-07-23.md"
+                "file": "1-能力/4-认知/杂文/《读武动乾坤有感》.md"
               }
             }
           }
@@ -100,8 +99,8 @@
   },
   "active": "1f61b0b7cc141f1e",
   "lastOpenFiles": [
-    "1-能力/2-技能/知识管理/工具箱/chrome.md",
     "5-到此一游/2022-07-23.md",
+    "1-能力/2-技能/知识管理/工具箱/chrome.md",
     "1-能力/2-技能/知识管理/工具库.md",
     "1-能力/2-技能/软件开发/7-开发语言/GO/go 语言中的疑问.md",
     "1-能力/2-技能/软件开发/9-技术实操/编程效率/工作常用的命令.md",
